@@ -1,0 +1,5 @@
+CREATE TABLE TEST
+(
+Name VARCHAR2(100);
+RollNo Varchar2(100);
+);
